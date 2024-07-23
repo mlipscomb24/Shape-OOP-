@@ -20,11 +20,11 @@ insure that you have inquirer installed
 
 ## Usage
 
-You should use this any time you need a professional README. This generator creates an easy way for you to generate a README file that is consistent for each project. Please see the finalized project in the 'Develop' folder. 
+Test functionality when using object oriented programming. Jest was used to implement unit test cases. 
 
 ## License
 
-This project is licensed under the MIT license.
+N/A
 
 ## Contributing
 
@@ -32,7 +32,7 @@ N/A at this time we are not taking contributions.
 
 ## Tests
 
-on the command line please enter node index.js
+On the command line please enter node index.js to render the svg file, to run unit testing please proceed to the root file and in the command line etner npm test. 
 
 ## Questions
 
