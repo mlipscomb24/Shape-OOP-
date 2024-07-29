@@ -1,5 +1,5 @@
-# Challenge_README
-README using NodeJS and OOP for Unit Testing
+# Challenge_Unit Testing and OOP Shapres
+Using NodeJS and OOP for Unit Testing with the end product being able to generate SVG Logo Maker
 ## Description
 
 This project we used node and OOP to create a template that allowed users to answer questions to generate a shape image. Furthermore, we utilized the function of unit testing to have test cases test the functionality of the form. 
